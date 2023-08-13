@@ -22,9 +22,8 @@ I'm an aspiring data professional that is eager to do what I can to elevate & em
 
 On my Github, you're bound to find more of my work on various personal data projects. If you're interested in knowing what I do in the Trust and Safety space, you can find me on [LinkedIn](https://www.linkedin.com/in/nivetha-sundar/). Let's connect and chat!
 
-## GitHub Stats
-
-![My GitHub Stats](GitHub Stats Image URL)
+<!---## GitHub Stats
+[My GitHub Stats](GitHub Stats Image URL)-->
 
 ## Let's Collaborate!
 
