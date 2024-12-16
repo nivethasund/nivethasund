@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Nivetha and I'm a trust and safety professional currently residing in San Francisco, CA. 
+My name is Nivetha and I'm currently residing in San Francisco, CA. 
 
 ### About Me
 
-I'm an aspiring data professional that is eager to do what I can to elevate & empower Trust and Safety businesses. I have a background in public relations and journalism, so I've been on both sides of the typical content lifecycle and am pretty keen to see how content creation and moderation co-exist in our world that's witnessing the rapid growth of AI and LLMs.
+I'm a data-driven professional who is eager to do what I can to elevate & empower businesses engaged in art & communication. I have a background in public relations and journalism, so I've been on both sides of the typical content lifecycle and am pretty keen to see how content creation and moderation co-exist in our world that's witnessing the rapid growth of AI and LLMs.
 
 ### My Projects
 
